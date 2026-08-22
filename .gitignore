@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+cyclegan/checkpoints/*
+yolov8/weights/*
+*.pt
+*.pth
+*.h5
+.env
+venv/
